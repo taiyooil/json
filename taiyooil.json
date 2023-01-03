@@ -1,0 +1,39 @@
+{
+  "name": "Taiyo Oil White List ✅",
+  "symbol": "OIL",
+  "description": "Thanks to the NFT you bought on the MagicEden site, you have earned the right to free Mint.🥳 \n\n Taiyo Oil is essentially a key to the future of the expansion, all robots need oil! \n\n You can have your free Mint right to our limited NFT collection during the day on our site.🔽",
+  "seller_fee_basis_points": 100,
+  "external_url": "https://taiyooil.netlify.app",
+  "edition": "Alpha",
+  "background_color": "000000",
+  "attributes": [
+    {
+      "trait_type": "White List",
+      "value": "Free"
+    },
+    {
+      "trait_type": "Floor",
+      "value": "3.2 SOL"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "mag1cqJMr5WeycmET2UyLU5ZEH3uNUCnvMywBdUxAm5",
+        "share": 100
+      }
+    ],
+    "files": [
+      {
+        "uri": "https://github.com/holydiamonds/nftfiles/blob/main/taiyooil.jpg?raw=true",
+        "file_type": "image/gif"
+      }
+    ]
+  },
+  "collection": {
+    "name": "OIL",
+    "family": "WhiteList"
+  },
+  "image": "https://github.com/holydiamonds/nftfiles/blob/main/taiyooil.jpg?raw=true"
+}
